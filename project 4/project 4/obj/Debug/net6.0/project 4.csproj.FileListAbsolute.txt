@@ -1,0 +1,5 @@
+C:\Users\dell\source\repos\project 4\project 4\obj\Debug\net6.0\project 4.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\project 4\project 4\obj\Debug\net6.0\project 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\project 4\project 4\obj\Debug\net6.0\project 4.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\project 4\project 4\obj\Debug\net6.0\project 4.AssemblyInfo.cs
+C:\Users\dell\source\repos\project 4\project 4\obj\Debug\net6.0\project 4.csproj.CoreCompileInputs.cache
