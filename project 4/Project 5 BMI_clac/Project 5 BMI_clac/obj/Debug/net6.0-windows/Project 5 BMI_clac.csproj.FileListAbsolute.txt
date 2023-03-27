@@ -1,0 +1,5 @@
+C:\Users\dell\source\repos\Project 5 BMI_clac\Project 5 BMI_clac\obj\Debug\net6.0-windows\Project 5 BMI_clac.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Project 5 BMI_clac\Project 5 BMI_clac\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dell\source\repos\Project 5 BMI_clac\Project 5 BMI_clac\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dell\source\repos\Project 5 BMI_clac\Project 5 BMI_clac\obj\Debug\net6.0-windows\Project 5 BMI_clac_MarkupCompile.cache
+C:\Users\dell\source\repos\Project 5 BMI_clac\Project 5 BMI_clac\obj\Debug\net6.0-windows\Project 5 BMI_clac_MarkupCompile.lref
